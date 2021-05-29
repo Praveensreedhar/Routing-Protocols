@@ -7,5 +7,15 @@ Organisations require Autonomous System Numbers(AS) to communicate to internet. 
 
 ##  BGP Path Attributes
 
+BGP uses path attribute associated with each network path. BGP path attributes are classified as follows.
+
+#### 1. Well-known mandatory
+#### 2. Well-known discretionary
+#### 3. Optional transitive
+#### 4. Optional nontransitive
+
+#### Well-known mandatory
+
+Well-known mandatory attribute must be recongi
 
 
