@@ -24,7 +24,7 @@ This attribute is present in all BGP update and passed to all other BGP routers.
 
 Well-known discretionary must be recognized by all BGP routers and passed on to other BGP routers but need not be present in an update
 
-#### Local-Preferece Attomic-aggregate
+#### Local-Preferece, Attomic-aggregate
 
 
 
